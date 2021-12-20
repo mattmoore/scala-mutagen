@@ -1,0 +1,4 @@
+<plugin>
+  <name>division-by-zero</name>
+  <classname>io.mattmoore.scala.mutagen.plugins.DivisionByZero</classname>
+</plugin>
